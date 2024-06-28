@@ -25,6 +25,7 @@
       <itemPath>string_new.h</itemPath>
       <itemPath>tig_new.c</itemPath>
       <itemPath>variables.c</itemPath>
+      <itemPath>test_28.txt</itemPath>
     </logicalFolder>
     <logicalFolder name="ExternalFiles"
                    displayName="Important Files"
